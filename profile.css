@@ -1,0 +1,44 @@
+body{
+    background-color:black;
+    height: 1000px;
+    width:1500px;
+}
+.name{
+    background-color: grey;
+    color:black;
+    align-items: center;
+    text-align: center;
+    height: 150px;
+}
+.abtme{
+    background-color: white;
+    text-align: center;
+}
+.brdr{
+    margin-left: 650px;
+    margin-right: 650px;
+    border: dashed 5px;
+    height: 50px;
+    text-align: center;
+}
+.sch{
+    background-color: gray;
+    text-align: center;
+    color: black;
+}
+.skill{
+    background-color:white;
+    height: 400px;
+    text-align: left;
+    
+}
+.contact{
+    background-color: gray;
+    height: 300px;
+    text-align: center;
+}
+.box{
+    margin-left: 350px;
+    width: 800px;
+    height: 800px;
+}
